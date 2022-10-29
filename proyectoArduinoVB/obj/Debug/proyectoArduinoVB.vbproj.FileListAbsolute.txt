@@ -1,0 +1,13 @@
+c:\users\nine\documents\visual studio 2015\Projects\proyectoArduinoVB\proyectoArduinoVB\bin\Debug\proyectoArduinoVB.exe.config
+c:\users\nine\documents\visual studio 2015\Projects\proyectoArduinoVB\proyectoArduinoVB\bin\Debug\proyectoArduinoVB.exe
+c:\users\nine\documents\visual studio 2015\Projects\proyectoArduinoVB\proyectoArduinoVB\bin\Debug\proyectoArduinoVB.pdb
+c:\users\nine\documents\visual studio 2015\Projects\proyectoArduinoVB\proyectoArduinoVB\bin\Debug\proyectoArduinoVB.xml
+c:\users\nine\documents\visual studio 2015\Projects\proyectoArduinoVB\proyectoArduinoVB\obj\Debug\proyectoArduinoVB.vbprojResolveAssemblyReference.cache
+c:\users\nine\documents\visual studio 2015\Projects\proyectoArduinoVB\proyectoArduinoVB\obj\Debug\proyectoArduinoVB.Form1.resources
+c:\users\nine\documents\visual studio 2015\Projects\proyectoArduinoVB\proyectoArduinoVB\obj\Debug\proyectoArduinoVB.Resources.resources
+c:\users\nine\documents\visual studio 2015\Projects\proyectoArduinoVB\proyectoArduinoVB\obj\Debug\proyectoArduinoVB.vbproj.GenerateResource.Cache
+c:\users\nine\documents\visual studio 2015\Projects\proyectoArduinoVB\proyectoArduinoVB\obj\Debug\proyectoArduinoVB.exe
+c:\users\nine\documents\visual studio 2015\Projects\proyectoArduinoVB\proyectoArduinoVB\obj\Debug\proyectoArduinoVB.xml
+c:\users\nine\documents\visual studio 2015\Projects\proyectoArduinoVB\proyectoArduinoVB\obj\Debug\proyectoArduinoVB.pdb
+C:\Users\NINE\documents\visual studio 2015\Projects\proyectoArduinoVB\proyectoArduinoVB\obj\Debug\proyectoArduinoVB.Form2.resources
+C:\Users\NINE\documents\visual studio 2015\Projects\proyectoArduinoVB\proyectoArduinoVB\obj\Debug\proyectoArduinoVB.Registros.resources
